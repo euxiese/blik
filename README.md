@@ -1,5 +1,3 @@
-[blik-studio_1.html](https://github.com/user-attachments/files/27136087/blik-studio_1.html)
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
