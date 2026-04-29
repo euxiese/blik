@@ -1,5 +1,4 @@
-[blik-studio_1.html](https://github.com/user-attachments/files/27136229/blik-studio_1.html)
-
+[index.html](https://github.com/user-attachments/files/27202338/index.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
